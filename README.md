@@ -1,1 +1,1 @@
-# Tin
+# MY-PERSONAL-DWM-CONFIG
